@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-75GXT2WF1M" 
-ga_domain: auto
+ga_domain: https://baikai26.github.io/
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
