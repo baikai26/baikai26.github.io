@@ -74,7 +74,7 @@ ga_domain: https://baikai26.github.io/
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "十四说这趟回去要给外婆2万，番茄酱浇头也可以接 <br> @抽象工作室"
+sidebar-about-description: "十四说这趟回去要给外婆2万 <br> 番茄酱浇头也可以接 <br> @抽象工作室"
 sidebar-avatar: /img/avatar/avatar-travis.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
