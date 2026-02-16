@@ -89,11 +89,11 @@ service-worker: true
 page-mathjax: false
 
 # Friends
+# 不能加斗鱼直播间链接，手机浏览器会跳转到其他房
 friends:
   [
     { title: "陈子杨", href: "https://space.bilibili.com/1114889603" },
     { title: "Bruce", href: "https://space.bilibili.com/1387592680" },
     { title: "程哥style", href: "https://space.bilibili.com/33633641" },
-    { title: "网友张顺飞", href: "https://www.douyu.com/2561707" },
     { title: "白露鸢", href: "https://weibo.com/u/7201882323" },
   ]
